@@ -6,9 +6,13 @@ Version 1.1-0
 * Tkinter
 
 ```
-python mdit [<File name> Optional]
+pip install <Dependencie>
 ```
 
+**How use**
+```
+python mdit [<FileName> optional]
+```
 
 -----
 
